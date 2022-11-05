@@ -1,0 +1,5 @@
+com\mycompany\ontap2\Utiliities\HibernatUtil.class
+com\mycompany\ontap2\model\Room.class
+com\mycompany\ontap2\model\Receptionist.class
+com\mycompany\ontap2\model\Guest.class
+com\mycompany\ontap2\model\Hotel.class
